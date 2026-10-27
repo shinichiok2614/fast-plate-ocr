@@ -1,0 +1,16 @@
+certifi==2026.10.23
+fast-alpr==0.4.0
+fast-plate-ocr==1.1.0
+flatbuffers==25.12.19
+markdown-it-py==4.2.0
+mdurl==0.1.2
+numpy==2.5.4
+onnxruntime==1.31.1
+open-image-models==0.6.0
+opencv-python-headless==5.0.0.93
+packaging==26.3
+protobuf==7.36.2
+Pygments==2.21.0
+PyYAML==6.0.3
+rich==15.0.0
+tqdm==4.70.1
